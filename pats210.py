@@ -17,7 +17,7 @@ for i in range(d):
         if ( li[i] > max6 ):
             max6 = li[i]
             
-    elif( i < 24 ):
+    else:
         if (li[i]>max7):
             max7=li[i]
     
