@@ -1,6 +1,7 @@
 sm=0
 m=-2
 n=-1
+print "mexri na dothoun sosta oi arithmooi tha epanalambanete i diadikasia tis eisodou arithmon"
 while  m==n or m<n or m<0 or n<0:
     n=int(raw_input("doste 1 thetiko arithmo"))
     m=int(raw_input("doste enan  megalytero thetiko arithmo"))
