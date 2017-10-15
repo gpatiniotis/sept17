@@ -4,7 +4,7 @@ import openaq
 town1=raw_input("Give me first town name: ")
 town2=raw_input("Give me second town name: ")
 api=openaq.OpenAQ()
-
+#oi poleis dinontai me to proto gramma kefalaio,paradeigmato xari Delhi,Los Angeles
 parameters=['pm25', 'pm10']
 pm=[]
 
